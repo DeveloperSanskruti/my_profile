@@ -1,0 +1,102 @@
+header{
+    height : 60px;
+    background : rgb(185, 4, 4);
+    border : 2px solid #000000;
+    margin-bottom: 5px;
+}
+.profile{
+    height : 470px;
+    border : 2px solid black;
+    background : rgb(226, 211, 196);
+}
+.photo{
+    float : left;
+    width : 25%;
+    height : 370px;
+    margin : 50px 50px 50px 120px;
+    border : 3px solid black;
+}
+.info{
+    width : 50%;
+    float : left;
+    margin : 50px;
+    height : 80%;
+}
+button{
+    padding : 7px 7px 7px 7px;
+    box-shadow: 0 10px 25px 0 rgba(97, 93, 93, 0.582);
+}
+button:hover{
+    box-shadow: 0 10px 15px 0 rgba(41, 39, 39, 0.637)
+}
+.technologies{
+    height : 600px;
+    background : rgb(200, 211, 248);
+    border : 2px solid black;
+    margin-top: 5px;
+}
+#heading{
+    color: rgb(196, 46, 26);
+    font-size: 60px;
+    text-align: center;
+}
+.tech-img{
+    margin: 0% 10% 0% 10%;
+}
+.education{
+    height : 350px;
+    background : rgb(235, 174, 95);
+    border : 2px solid black;
+    margin-top: 5px;
+}
+#edu{
+    color: rgb(63, 15, 9);
+    text-align: center;
+    font-size: 60px;
+    margin-top: 20px;
+}
+table{
+    border : 2px solid black;
+    width : 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+th{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #bbbe09;
+    color: black;
+    text-align: center;
+    font-size: x-large;
+    font-weight: bolder;
+}
+td{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #dde028b9;
+    color: black;
+    text-align: center;
+    font-weight: bolder;
+}
+.address{
+    height : 400px;
+    background : rgb(163, 235, 95);
+    border : 2px solid black;
+    margin-top: 5px;
+}
+#add{
+    color: rgb(41, 39, 38);
+    font-size: 60px;
+    text-align: center;
+    margin-top : 20px;
+}
+footer{
+    height : 60px;
+    background : rgb(185, 4, 4);
+    border : 2px solid black;
+    text-align: center;
+    color: white;
+    margin-top: 5px;;
+}
